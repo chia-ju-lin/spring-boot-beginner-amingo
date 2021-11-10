@@ -1,8 +1,8 @@
 # spring-boot-beginner-amingo
 This project follows the tutorio from Amigo's spring boot for beginners
 https://amigoscode.com/courses/enrolled/267273
-chia-ju.lin@diva-e.com
-Munchen0a
+
+***chia-ju.lin@diva-e.com / Munchen0a***
 
 Content includes the following:
 
