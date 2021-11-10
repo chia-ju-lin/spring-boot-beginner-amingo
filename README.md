@@ -1,8 +1,8 @@
 # spring-boot-beginner-amingo
-## This project follows the tutorio from Amigo's spring boot for beginners
-## https://amigoscode.com/courses/enrolled/267273
+This project follows the tutorio from Amigo's spring boot for beginners
+https://amigoscode.com/courses/enrolled/267273
 
-## Content includes the following:
+Content includes the following:
 
 1. Database: postgreSQL
 1. commandLineRunner
