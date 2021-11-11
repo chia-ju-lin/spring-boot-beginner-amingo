@@ -7,6 +7,9 @@ https://amigoscode.com/courses/enrolled/267273
 Content includes the following:
 
 1. Database: postgreSQL
+https://www.youtube.com/watch?v=BLH3s5eTL4Y
+database: student
+password: Munchen0p
 1. commandLineRunner
 1. InteliJ tips:
    1. use InteliJ to test POST and PUT API
